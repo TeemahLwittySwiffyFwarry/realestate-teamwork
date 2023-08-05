@@ -1,0 +1,31 @@
+@import url("./Montserrat-VariableFont_wght.ttf");
+
+:root{
+    --deepblue: #243048;
+}
+
+.line{
+   min-height: 65px;
+   min-width: 1px;
+   background-color: #d3d3d3;
+}
+
+.banner .col-md-6:first-child h4{
+    color: var(--deepblue);
+    font-size: 3rem;
+}
+.banner .col-md-6:first-child button{
+    background-color: var(--deepblue);
+    color: #fff;
+}
+
+.banner .col-md-6:first-child button:hover{
+    transition: 4s all ease-in-out;
+    background-color: #fff;
+    color: var(--deepblue);
+
+}
+.banner .col-md-6:last-child .card-footer{
+   background-color: var(--deepblue);
+
+}
