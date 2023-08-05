@@ -31,7 +31,22 @@
 }
 
 
+
 #ourteam .banner{
     background-image: url(./images/banner.bgforourteam.webp);
     min-height: 40vh;
 }
+
+.contactus{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.services.banner{
+    
+}
+
+
+
