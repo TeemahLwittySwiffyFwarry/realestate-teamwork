@@ -29,3 +29,9 @@
    background-color: var(--deepblue);
 
 }
+
+
+#ourteam .banner{
+    background-image: url(./images/banner.bgforourteam.webp);
+    min-height: 40vh;
+}
